@@ -1,0 +1,6 @@
+chalice
+pymongo
+pymongoose
+pydantic
+cryptography
+python-dotenv
