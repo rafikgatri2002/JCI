@@ -1,0 +1,7 @@
+fastapi
+pymongo
+pymongoose
+pydantic
+cryptography
+python-dotenv
+uvicorn[standard]
